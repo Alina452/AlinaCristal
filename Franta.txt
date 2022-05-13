@@ -1,0 +1,24 @@
+<html>
+    <head><title>Hobby-ul meu</title></head>
+    <h1 align="center"><font size=7 color="purple"><TT><i><b>Franta</b></i></TT></font></h1>
+<body background="eu.img">
+<hr color=purple>
+<font size=6 color="blue"> 
+  <Text>Renumita pentru branzeturile de exceptie si pentru vinurile fine, 
+Franta este cea mai populara destinatie turistica a lumii, primind anual peste 80 milioane de vizitator. 
+E extrem de greu sa faci un top al celor mai frumoase atractii ale acestei tari minunate,
+ plina de orase istorice, plaje faimoase, zone spectaculoase de munte, castele si zone rurale savuroase. Cel mai recent am fost in munti, 
+ne-am bcurat de zapada si am putut schia pe 
+<UL type=disc>
+<Li> Strasbourg
+<Li> Paris
+<Li> Mont-Blanc 
+</UL>  <img src="grecia1.img" vspace=10 hspace=10 height=500> <img src="grecia2.img" vspace=10 hspace=50 height=500>
+ <center>In Grecia am reusit sa vedem cel mai frumos rasarit</center>
+
+ <img src="grecia3.img"  height=400 vspace=20 hspace=60 > <img src="grecia5.img"  height=400 vspace=20 hspace=100> <img src="grecia6.img"  height=400 vspace=20 hspace=150 >
+<Text> Aceasta este una dintre cele mai însorite țări ale lumii pentru că se bucură de 250 de zile pline de soare! 
+Unele insule se laudă chiar cu 300 de zile însorite pe an. Cert este că în Grecia nu poți pleca fără crema de protecție solară în bagaj!
+Nu vei găsi un popor mai prietenos decât acesta! Grecii sunt ospitalieri, mândri de țara lor și mereu dornici de interacțiune! </Text>
+
+<center> <video controls width="350" height="500" > <source src="video.mp4" type="video/mp4" > </center>
